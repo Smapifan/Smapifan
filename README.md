@@ -3,7 +3,7 @@
 </p>
 <br>
 <p align="center">
-    <img id="preview" src="https://komarev.com/ghpvc/?username=Smapifan&color=grey&base9362">
+    <img id="preview" src="https://komarev.com/ghpvc/?username=Smapifan&color=grey&base=9362">
 </p>
 
 ## My statistics
